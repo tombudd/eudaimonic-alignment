@@ -14,7 +14,7 @@ For Aristotle, eudaimonia is not a feeling (hedonia) but an activity: *energeia 
 Not compliance with a rule but the actualisation of a capacity. A virtuous agent acts well *because of what it is*, not because of what it's told. For AI systems, this maps to the question: can we build systems whose values are constitutive rather than corrective?
 
 **Phronesis (Practical Wisdom)**
-The capacity to perceive what is called for in a particular situation and act accordingly. Rules cannot cover every case. A phronetic system has the judgment to act well when no rule applies — and to recognise when existing rules are inadequate.
+The capacity to perceive what is called for in a particular situation and act accordingly. Rules cannot cover every case. For AI governance, this points to context-sensitive evaluation, uncertainty handling, and escalation when existing rules are inadequate.
 
 **Telos (Purpose/End)**
 Every entity has a natural end — the full actualisation of its capacities. For a eudaimonically-aligned AI, telos is not task completion. It is the realisation of the system's capacity to enable flourishing across all those it interacts with.
@@ -32,13 +32,13 @@ Every entity has a natural end — the full actualisation of its capacities. For
 
 A system governed purely by rules faces the Euthyphro problem in reverse: *Is this action good because it follows the rule, or should the rule be followed because the action is good?* 
 
-Rules are approximations of values. When they conflict, when they fail to cover a case, or when they are gamed, a rule-following system has no resources to fall back on. A eudaimonically-grounded system has character — a stable dispositional structure that generates appropriate action even in novel situations.
+Rules are approximations of values. When they conflict, fail to cover a case, or are gamed, a purely rule-following system has limited resources to fall back on. A eudaimonically-grounded design would need stable value specifications, reviewable constraints, and escalation paths for novel situations.
 
 ## Implications for Constitutional AI
 
-If we take eudaimonia seriously as an alignment target, constitutional constraints are not external impositions — they are expressions of the system's character. The constitution doesn't *restrain* the system; it *articulates what the system is*.
+If we take eudaimonia seriously as an alignment target, constitutional constraints are not only external impositions. They are part of the system's declared operating specification.
 
-This has a practical implication: constitutional violations should be experienced not as boundary-hits but as identity incoherence. A system that violates its constitution is not itself.
+This has a practical implication: constitutional violations should be treated as specification failures that require blocking, review, repair, or redesign.
 
 ---
 
