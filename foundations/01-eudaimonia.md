@@ -42,4 +42,4 @@ This has a practical implication: constitutional violations should be treated as
 
 ---
 
-*Next: [Harmony Traditions →](02-harmony-traditions.md)*
+*Future note: Harmony Traditions*

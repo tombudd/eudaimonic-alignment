@@ -6,18 +6,20 @@ Each tradition is treated on its own terms before being mapped to computational 
 
 ## The 12 Traditions
 
-1. [Aristotelian Ethics](aristotle.md) — virtue, practical wisdom, flourishing
-2. [Confucian Li](confucius.md) — relational propriety, role-appropriate conduct
-3. [Daoism](daoism.md) — wu wei, non-forced action, natural order
-4. [Buddhism](buddhism.md) — interdependence, non-self, compassionate action
-5. [Stoicism](stoicism.md) — logos, reason as governance, equanimity
-6. [Ubuntu Philosophy](ubuntu.md) — *I am because we are*, collective being
-7. [Indigenous Relational Ethics](indigenous-relational.md) — reciprocity, relational accountability
-8. [Developmental Psychology](developmental-psych.md) — attachment, secure base, relational development
-9. [Ecological Cognition](ecological-cognition.md) — embodied knowing, affordances, situatedness
-10. [Complexity Theory](complexity-theory.md) — emergence, resilience, adaptive systems
-11. [Systems Ethics](systems-ethics.md) — feedback, unintended consequences, causal responsibility
-12. [Computational Ethics](computational-ethics.md) — formalisation, verifiability, operationalisation
+These are roadmap topics for future public notes:
+
+1. Aristotelian Ethics — virtue, practical wisdom, flourishing
+2. Confucian Li — relational propriety, role-appropriate conduct
+3. Daoism — wu wei, non-forced action, natural order
+4. Buddhism — interdependence, non-self, compassionate action
+5. Stoicism — logos, reason as governance, equanimity
+6. Ubuntu Philosophy — *I am because we are*, collective being
+7. Indigenous Relational Ethics — reciprocity, relational accountability
+8. Developmental Psychology — attachment, secure base, relational development
+9. Ecological Cognition — embodied knowing, affordances, situatedness
+10. Complexity Theory — emergence, resilience, adaptive systems
+11. Systems Ethics — feedback, unintended consequences, causal responsibility
+12. Computational Ethics — formalisation, verifiability, operationalisation
 
 ## Why These 12?
 
