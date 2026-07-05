@@ -33,6 +33,8 @@ The implemented public files are intentionally small.
 ```
 eudaimonic-alignment/
 ├── PUBLIC_BOUNDARY.md             # Public/private disclosure boundary
+├── docs/
+│   └── HUMAN_SOVEREIGNTY_AND_HUMAN_BECOMING.md
 ├── foundations/
 │   ├── 01-eudaimonia.md          # Aristotelian flourishing as alignment target
 ├── architecture/
