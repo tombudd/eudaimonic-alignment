@@ -24,6 +24,8 @@ The result is a framework where alignment isn't a policy layer — it's an engin
 
 This repository contains public research notes and educational framework material only. It does not disclose proprietary system architecture, private implementation details, internal audit artifacts, production logs, non-public governance mechanisms, private prompts, private schemas, or deployment receipts. See [`PUBLIC_BOUNDARY.md`](PUBLIC_BOUNDARY.md).
 
+For the companion public evaluation stack that turns part of this research direction into runnable synthetic benchmarks, see [`ai-governance-benchmarks/docs/EVALUATION_STACK_OVERVIEW.md`](https://github.com/tombudd/ai-governance-benchmarks/blob/main/docs/EVALUATION_STACK_OVERVIEW.md).
+
 ---
 
 ## Framework Structure
